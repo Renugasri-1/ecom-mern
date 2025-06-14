@@ -1,0 +1,102 @@
+[{
+    "name": "OPPO F21s Pro 5G",
+    "price":245.67,
+    "description":"OPPO F21s Pro 5G is a powerful device",
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/image/products/1.jpg"
+        },
+        {
+            "image": "/image/products/2.jpg"
+        }
+    ],
+    "category": "mobile phones",
+    "seller": "amazon",
+    "stock": 5
+},
+{
+    "name": "WRISTO HD,Bluetooth calling smartwatch",
+    "price":150.32,
+    "description":"minix watches are exclusively designed fully",
+    "ratings": 3.5,
+    "images": [
+        {
+            "image": "/image/products/2.jpg"
+        }
+    ],
+    "category": "Accessories",
+    "seller": "flipkart",
+    "stock": 9
+},
+{
+    "name": "DELL Inspiron 3511 laptop",
+    "price":440.57,
+    "description":"DELL Inspiron 3511 laptop is a 11th generation intel core",
+    "ratings": 2,
+    "images": [
+        {
+            "image": "/image/products/3.jpg"
+        }
+    ],
+    "category": "Laptops",
+    "seller": "ebay",
+    "stock": 9
+},
+{
+    "name": "PTRON Newly launced tangent sports,60hrs playtime",
+    "price":15.46,
+    "description":"Gigantic 60+hrs of musicplaytime",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/image/products/4.jpg"
+        }
+    ],
+    "category": "headphones",
+    "seller": "amazon",
+    "stock": 9
+},
+{
+    "name": "ASUS VivoBook 15 laptop",
+    "price":767.32,
+    "description":"ASUS VivoBook 15 laptop 15.6-inch (39.62cm) HD",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/image/products/7.jpg"
+        }
+    ],
+    "category": "Laptops",
+    "seller": "ebay",
+    "stock": 9
+},
+{
+    "name": "Lenova ideapad slim 3 laptop",
+    "price":250.45,
+    "description":"Lenova ideapad slim 3 laptop is slim,lightweight,portable",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/image/products/7.jpg"
+        }
+    ],
+    "category": "Laptops",
+    "seller": "ebay",
+    "stock": 9
+
+},
+{
+    "name": "Campus mens maxico running shoes",
+    "price":10.12,
+    "description":"The high raised backcover with extrapadding makes it feel more comfortable",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/image/products/6.jpg"
+        }
+    ],
+    "category": "sports",
+    "seller": "ebay",
+    "stock": 6
+}]
