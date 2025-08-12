@@ -8,6 +8,10 @@ dotenv.config({path: path.join(__dirname, 'config','config.env')})
 
 const products = require('./routes/product');
 const order = require('./routes/order');
+const authRoutes = require('./routes/authRoutes');
+const paymentRoutes = require('./routes/paymentRoutes');
+const userRoutes = require('./routes/user');
+const authMiddleware = require('./middleware/authMiddleware');
 
 connectdatabase();
 
@@ -15,7 +19,10 @@ app.use(express.json());
 app.use(cors());
 app.use('/api/v1/',products);
 app.use('/api/v1/',order);
-
+app.use('/api/auth',authRoutes);
+app.use('/api/payment',paymentRoutes);
+app.use('/api/user', userRoutes);
+app.use('/api/middleware',authMiddleware);
 
 
 app.listen(process.env.PORT, () => {
